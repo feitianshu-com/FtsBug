@@ -1,0 +1,42 @@
+{
+    "fields": [
+        {
+            "name": "content",
+            "type": "text"
+        },
+        {
+            "name": "post_id",
+            "type": "integer#unsigned"
+        },
+        {
+            "name": "user_id",
+            "type": "integer#unsigned"
+        }
+    ],
+    "foreign_keys": [
+        {
+            "column": "post_id",
+            "references": "id",
+            "on": "posts",
+            "onDelete": "cascade"
+        },
+        {
+            "column": "user_id",
+            "references": "id",
+            "on": "users",
+            "onDelete": "cascade"
+        }
+    ],
+    "relationships": [
+        {
+            "name": "post",
+            "type": "belongsTo",
+            "class": "App\\Models\\Post"
+        },
+        {
+            "name": "user",
+            "type": "belongsTo",
+            "class": "App\\Models\\User"
+        }
+    ]
+}
