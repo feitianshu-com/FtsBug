@@ -1,5 +1,5 @@
 ## 飞天鼠Bug管理系统
-基于laravel 10开发 
+基于laravel 10开发，包含 bug管理 和 todo管理
 
 ## 在线免费系统
 https://bug.feitianshu.com/
