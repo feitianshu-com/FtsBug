@@ -3,3 +3,19 @@
 
 ## 在线免费系统
 https://bug.feitianshu.com/
+
+## 安装
+
+### 第一步
+创建数据库bug，导入db/bug.sql
+
+### 第二步
+在项目根目录下，执行 composer install
+
+### 第三步
+复制.env.example为.env
+
+### 第四步
+php artisan key:generate
+并且配置数据库用户名密码等
+
