@@ -7,7 +7,7 @@ https://bug.feitianshu.com/
 ## 安装
 
 ### 第一步
-创建数据库bug，导入db/bug.sql
+创建数据库bug，导入doc/bug.sql
 
 ### 第二步
 在项目根目录下，执行 composer install
