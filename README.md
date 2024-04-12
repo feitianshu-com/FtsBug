@@ -21,4 +21,14 @@ https://bug.feitianshu.com/
 ### 第五步
 配置数据库用户名密码等
 
-![这是图片](https://raw.githubusercontent.com/feitianshu-com/FtsBug/main/doc/0.png "Magic Gardens")
+![飞天鼠Bug管理系统](https://raw.githubusercontent.com/feitianshu-com/FtsBug/main/doc/0.png "飞天鼠Bug管理系统")
+
+![飞天鼠Bug管理系统](https://raw.githubusercontent.com/feitianshu-com/FtsBug/main/doc/1.png "飞天鼠Bug管理系统")
+
+![飞天鼠Bug管理系统](https://raw.githubusercontent.com/feitianshu-com/FtsBug/main/doc/2.png "飞天鼠Bug管理系统")
+
+![飞天鼠Bug管理系统](https://raw.githubusercontent.com/feitianshu-com/FtsBug/main/doc/3.png "飞天鼠Bug管理系统")
+
+![飞天鼠Bug管理系统](https://raw.githubusercontent.com/feitianshu-com/FtsBug/main/doc/4.png "飞天鼠Bug管理系统")
+
+![飞天鼠Bug管理系统](https://raw.githubusercontent.com/feitianshu-com/FtsBug/main/doc/5.png "飞天鼠Bug管理系统")
