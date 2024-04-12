@@ -16,6 +16,8 @@ https://bug.feitianshu.com/
 复制.env.example为.env
 
 ### 第四步
-php artisan key:generate
-并且配置数据库用户名密码等
+在项目根目录下，执行 php artisan key:generate
+
+### 第五步
+配置数据库用户名密码等
 
