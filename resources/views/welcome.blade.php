@@ -4,10 +4,10 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <meta name="description" content="{{ __('BugCloser is a popular free web-based bug tracking system') }}" />
-        <meta name="keywords" content="{{ __('BugCloser, bugtracker, bug, tracker, issue, free, software') }}" />
+        <meta name="description" content="{{ __('FtsBug is a popular free web-based bug tracking system') }}" />
+        <meta name="keywords" content="{{ __('FtsBug, bugtracker, bug, tracker, issue, free, software') }}" />
         
-        <title>{{ __('BugCloser') }}</title>
+        <title>{{ __('FtsBug') }}</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -47,10 +47,10 @@
                         <a href="javascript::void(0);" class="scale-100 p-6 bg-white dark:bg-gray-800/50 dark:bg-gradient-to-bl from-gray-700/50 via-transparent dark:ring-1 dark:ring-inset dark:ring-white/5 rounded-lg shadow-2xl shadow-gray-500/20 dark:shadow-none flex motion-safe:hover:scale-[1.01] transition-all duration-250 focus:outline focus:outline-2 focus:outline-red-500">
                             <div>
 
-                                <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">{{ __('BugCloser') }}</h2>
+                                <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">{{ __('FtsBug') }}</h2>
 
                                 <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                {{ __('BugCloser is a easy, pure and') }} <span style="color:green;">{{__('free')}}</span> {{__('bug tracker system') }}
+                                {{ __('FtsBug is a easy, pure and') }} <span style="color:green;">{{__('free')}}</span> {{__('bug tracker system') }}
                                 </p>
                                 <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
                                 {{ __('I am a') }} <span style="color:red;">{{ __('remote php developer') }}</span>, {{ __('If you need, Pls contact me: ') }}<span style="color:blue;">xukongzhilei@qq.com</span>
