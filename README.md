@@ -1,12 +1,14 @@
 ## 飞天鼠Bug管理系统
 基于laravel 10开发，包含 bug管理 和 todo管理
 本来只想找了开源的系统，结果找了一圈，也没找到 
-禅道         复杂
-Jira         复杂
-Redmine      对ruby不熟
-pingcode     没钱，买不起
-Mantis       不好用
-Worktile     不熟悉
+| 系统   |      特点      |
+|----------|:-------------:|
+| 禅道 |  复杂  |
+| Jira |   复杂  |
+| Redmine | 对ruby不熟 |
+| pingcode | 没钱，买不起 |
+| Mantis | 不好用 |
+| Worktile | 不熟悉 |
 说的不一定到位，当前这个系统也有很多要完善的地方，有时间再完善
 
 ## 在线免费系统
