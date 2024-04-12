@@ -13,7 +13,7 @@
 说的不一定到位，当前这个系统也有很多要完善的地方，有时间再完善
 
 ## 在线免费系统
-[飞天鼠Bug管理系统](https://bug.feitianshu.com/){:target="_blank"}
+[飞天鼠Bug管理系统](https://bug.feitianshu.com/  target="_blank")
 
 ## 安装
 
