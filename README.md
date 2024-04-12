@@ -21,3 +21,4 @@ https://bug.feitianshu.com/
 ### 第五步
 配置数据库用户名密码等
 
+![这是图片](https://raw.githubusercontent.com/feitianshu-com/FtsBug/main/doc/0.png "Magic Gardens")
